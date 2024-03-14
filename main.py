@@ -1,7 +1,7 @@
 
 
 
-def validator(num) -> bool:
+def validator(num:int) -> bool:
     """ This funct returns a bool if the number is perfect or not """
     # List that will take numbers returned by divisions below
     divisors = []
