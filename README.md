@@ -1,2 +1,1 @@
-So, basically a perfect number is whose when you divided them by any integer num its result is never a residual o float number(decimal), and also excepting by itself.
-so, you can try: 6 it's a perfect number because:  1,2 and 3 because when you divided then by 6 its result is an int, when you sum all this result then you have: result = [1 + 2 + 3] = 6
+"A perfect number is one whose proper divisors, excluding itself, sum up to the number itself. For example, consider the number 6. Its divisors are 1, 2, and 3. When you sum these divisors (1 + 2 + 3), you get 6. Therefore, 6 is a perfect number."
